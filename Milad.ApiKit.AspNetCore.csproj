@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+
+		<!-- مهم برای NuGet -->
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+		<PackageId>Milad.ApiKit.AspNetCore</PackageId>
+		<Version>1.0.0</Version>
+
+		<Authors>Milad</Authors>
+		<Company>Milad</Company>
+
+		<Description>Reusable API Kit including Result pattern, ApiResult, Error handling and Pagination</Description>
+
+		<RepositoryUrl>https://github.com/yourusername/Milad.ApiKit.AspNetCore</RepositoryUrl>
+
+		<PackageTags>api;result;pagination;dotnet;aspnetcore</PackageTags>
+
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Title>ApiKit AspNetCore</Title>
+	
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="FluentResults" Version="4.0.0" />
+		<PackageReference Include="FluentValidation" Version="12.1.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.9" />
+	</ItemGroup>
+	
+	
+
+</Project>

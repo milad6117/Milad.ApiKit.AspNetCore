@@ -1,0 +1,12 @@
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\bin\Release\net10.0\Milad.ApiKit.AspNetCore.deps.json
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\bin\Release\net10.0\Milad.ApiKit.AspNetCore.dll
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\bin\Release\net10.0\Milad.ApiKit.AspNetCore.pdb
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.csproj.AssemblyReference.cache
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.AssemblyInfoInputs.cache
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.AssemblyInfo.cs
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.csproj.CoreCompileInputs.cache
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.dll
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\refint\Milad.ApiKit.AspNetCore.dll
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.pdb
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\ref\Milad.ApiKit.AspNetCore.dll
