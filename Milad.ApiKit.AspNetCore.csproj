@@ -38,7 +38,7 @@
 
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 
-		<PackageIcon>icon.png</PackageIcon>
+		<!--<PackageIcon>icon.png</PackageIcon>-->
 
 		<!-- SourceLink -->
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
@@ -86,9 +86,9 @@
 			  Pack="true"
 			  PackagePath="\" />
 
-		<None Include="icon.png"
+		<!--<None Include="icon.png"
 			  Pack="true"
-			  PackagePath="\" />
+			  PackagePath="\" />-->
 
 	</ItemGroup>
 
