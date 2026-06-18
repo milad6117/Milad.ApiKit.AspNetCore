@@ -75,30 +75,7 @@
 						  PrivateAssets="All"/>
 
 	</ItemGroup>
-
-
-	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-
-	<PackageProjectUrl>https://github.com/milad6117/Milad.ApiKit.AspNetCore</PackageProjectUrl>
-
-	<RepositoryUrl>https://github.com/milad6117/Milad.ApiKit.AspNetCore</RepositoryUrl>
-
-	<RepositoryType>git</RepositoryType>
-
-	<PackageReadmeFile>README.md</PackageReadmeFile>
-
-	<PackageIcon>icon.png</PackageIcon>
-
-	<PublishRepositoryUrl>true</PublishRepositoryUrl>
-
-	<EmbedUntrackedSources>true</EmbedUntrackedSources>
-
-	<ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
-
-	<IncludeSymbols>true</IncludeSymbols>
-
-	<SymbolPackageFormat>snupkg</SymbolPackageFormat>
-
+		
 	<ItemGroup>
 
 		<None Include="README.md"
