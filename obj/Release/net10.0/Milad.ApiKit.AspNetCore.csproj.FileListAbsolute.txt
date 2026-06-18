@@ -10,3 +10,4 @@ H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Releas
 H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\refint\Milad.ApiKit.AspNetCore.dll
 H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.pdb
 H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\ref\Milad.ApiKit.AspNetCore.dll
+H:\AspNetCore Package\Milad.ApiKit.AspNetCore\Milad.ApiKit.AspNetCore\obj\Release\net10.0\Milad.ApiKit.AspNetCore.sourcelink.json

@@ -7,7 +7,7 @@
     <authors>Milad</authors>
     <description>Reusable API Kit including Result pattern, ApiResult, Error handling and Pagination</description>
     <tags>api result pagination dotnet aspnetcore</tags>
-    <repository type="git" url="https://github.com/yourusername/Milad.ApiKit.AspNetCore" />
+    <repository type="git" url="https://github.com/yourusername/Milad.ApiKit.AspNetCore" commit="0456eff94621d098297cbe65813e3c5aab5bb264" />
     <dependencies>
       <group targetFramework="net10.0">
         <dependency id="FluentResults" version="4.0.0" exclude="Build,Analyzers" />
