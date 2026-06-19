@@ -1,6 +1,6 @@
 ﻿
 
-namespace BookOnline.Shared.Pagination
+namespace Milad.ApiKit.AspNetCore.Pagination
 {
     public class PaginationParams
     {

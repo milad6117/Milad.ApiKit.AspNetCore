@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BookOnline.Shared.Results
+namespace Milad.ApiKit.AspNetCore.Results
 {
     public class ApiResult<T>
     {

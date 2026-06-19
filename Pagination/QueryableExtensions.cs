@@ -5,7 +5,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BookOnline.Shared.Pagination
+namespace Milad.ApiKit.AspNetCore.Pagination
 {
     public static class QueryableExtensions
     {

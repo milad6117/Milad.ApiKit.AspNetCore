@@ -3,12 +3,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BookOnline.Shared.Results;
+
 using FluentResults;
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
+using Milad.ApiKit.AspNetCore.Results;
 
-namespace BookOnline.Shared.Validation
+namespace Milad.ApiKit.AspNetCore.Validation
 {
     public static class ValidationExtensions
     {

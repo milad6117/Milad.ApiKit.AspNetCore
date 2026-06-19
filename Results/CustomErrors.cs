@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BookOnline.Shared.Results
+namespace Milad.ApiKit.AspNetCore.Results
 {
  
     public class UnauthorizedError : Error

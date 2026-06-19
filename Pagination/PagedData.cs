@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BookOnline.Shared.Pagination
+namespace Milad.ApiKit.AspNetCore.Pagination
 {
     public class PagedData<T>
     {
