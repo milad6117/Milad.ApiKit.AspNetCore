@@ -10,7 +10,7 @@ namespace Milad.ApiKit.AspNetCore.Results
     {
         public UnauthorizedError(string message) : base(message)
         {
-
+            Metadata.Add("ErrorCode", 401);
         }
     }
 
@@ -42,4 +42,7 @@ namespace Milad.ApiKit.AspNetCore.Results
             Errors.AddRange(errorMessages);
         }
     }
+
+
+
 }
