@@ -13,14 +13,40 @@ namespace Milad.ApiKit.AspNetCore.Results
         public string? Message { get; set; }
         public List<string>? Errors { get; set; }
 
-        public static ApiResult<T> Success(T data, string? message = null)
-            => new()
+        //public static ApiResult<T> Success(T data, string? message = null, int StatusCode = 200)
+        //    => new()
+        //    {
+        //        IsSuccess = true,
+        //        Data = data,
+        //        Message = message,
+        //        StatusCode = 200
+        //    };
+
+
+        // اورلود ۱: وقتی هم دیتا داریم هم پیام (یا فقط دیتا)
+        public static ApiResult<T> Success(T data, string message = null, int statusCode = 200)
+        {
+            return new ApiResult<T>
             {
                 IsSuccess = true,
+                StatusCode = statusCode,
                 Data = data,
-                Message = message,
-                StatusCode = 200
+                Message = message
             };
+        }
+
+
+        // اورلود ۲: مخصوص زمانی که دیتایی نداریم و فقط می‌خواهیم پیام موفقیت بفرستیم
+        public static ApiResult<object> Success(string message, int statusCode = 200)
+        {
+            return new ApiResult<object>
+            {
+                IsSuccess = true,
+                StatusCode = statusCode,
+                Data = null,
+                Message = message
+            };
+        }
 
         public static ApiResult<T> Failure(List<string> errors, int statusCode = 400)
             => new()
